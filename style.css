@@ -1,0 +1,33 @@
+.header{
+    background-color: cornflowerblue;
+}
+h1{
+    color: gold;
+}
+h2{
+    color: orange;
+}
+.about{
+    background-color: sandybrown;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 450px;
+    margin-right: 100px;
+    height: 50px;
+    width: 400px;
+}
+.dadda{
+    background-color: rgb(196, 92, 2);
+    display:flex;
+    justify-content: flex-start;
+    border-width: 3px;
+}
+.pig{
+    padding-left: 300px;
+}
+.bedtime{
+    padding-left: 500px;
+}
